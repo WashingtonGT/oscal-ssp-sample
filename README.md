@@ -12,3 +12,6 @@ trestle import -f https://raw.githubusercontent.com/usnistgov/oscal-content/mast
 ## Generate catalog md doc
 trestle author catalog-generate --name 800-53  --output md-800-53
 
+### Reference
+
+https://www.easydynamics.com/oscal/
