@@ -14,7 +14,7 @@ trestle author catalog-generate --name 800-53  --output md-800-53
 
 ### Reference
 
-https://www.easydynamics.com/oscal/
-https://d1.awsstatic.com/events/aws-reinforce-2022/GRC304_Automating-security-and-compliance-with-OSCAL%20-%20Copy.pdf
-https://github.com/usnistgov/oscal-tools
-https://d1.awsstatic.com/events/aws-reinforce-2022/GRC304_Automating-security-and-compliance-with-OSCAL%20-%20Copy.pdf
+ - https://www.easydynamics.com/oscal/
+ - https://d1.awsstatic.com/events/aws-reinforce-2022/GRC304_Automating-security-and-compliance-with-OSCAL%20-%20Copy.pdf
+ - https://github.com/usnistgov/oscal-tools
+ - https://d1.awsstatic.com/events/aws-reinforce-2022/GRC304_Automating-security-and-compliance-with-OSCAL%20-%20Copy.pdf
